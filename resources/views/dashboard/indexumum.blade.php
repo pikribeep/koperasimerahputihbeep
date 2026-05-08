@@ -73,7 +73,7 @@
                                 </svg>
                             </div>
                             <h5 class="card-title fw-bold text-dark">Manajemen Modal</h5>
-                            <p class="card-text text-muted">Pantau rincian setoran modal secara real-time dan pantau pertumbuhan simpanan kelompokmu.</p>
+                            <p class="card-text text-muted">Pantau rincian setoran modal secara realtime dan pantau pertumbuhan simpanan kelompokmu.</p>
                         </div>
                     </div>
                 </div>
